@@ -1,0 +1,1 @@
+Las dependencias para ejecutar estos ejercicios es simplemente tener instalado Jupyter Notebook y un ide compatible por ejemplo "Visual Estudio Code"
